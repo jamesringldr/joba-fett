@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "candidate_name": "James Oehring",
+    "target_role": "Director of Business Systems & Applications",
+    "target_company": "Busey Bank",
+    "job_id": "JR102357",
+    "salary_range": "$120,000 - $165,000/year",
+    "evaluation_date": "2026-07-07",
+    "evaluator": "HR-Critic Agent v1"
+  },
+  "scores": {
+    "ats_match_percent": 52,
+    "ats_match_percent_with_recency_weighting": 50,
+    "ats_interpretation": "WEAK_COMPATIBILITY",
+    "ats_match_threshold": 80,
+    "ats_callback_rate_baseline": "6%",
+    "star_narrative_score": 3.75,
+    "systems_thinking": 4,
+    "operational_ownership": 4,
+    "product_mindset": 3,
+    "collaboration": 4,
+    "behavioral_competency_average": 3.75,
+    "integrity_status": "CONCERNS",
+    "overall_narrative_strength": 3.75,
+    "education_match": false,
+    "required_experience_years_met": false,
+    "required_banking_years": 10,
+    "actual_banking_years": 1,
+    "years_relevant_experience_total": 10,
+    "chronological_order_compliance": false
+  },
+  "parsing_audit": {
+    "layout_complexity": "PASS",
+    "standard_section_headings": "PASS",
+    "contact_info_placement": "PASS",
+    "date_format_consistency": "PASS",
+    "chronological_order": "FAIL",
+    "rewrite_notes_section": "CRITICAL_RISK",
+    "overall_parsing_status": "CONCERNS"
+  },
+  "semantic_matching": {
+    "must_haves": {
+      "total_requirements": 12,
+      "clear_matches": 6,
+      "partial_matches": 4,
+      "clear_misses": 2,
+      "match_percentage": 67,
+      "weighted_match_percentage_with_recency": 50,
+      "requirements_detail": [
+        {
+          "requirement": "Bachelor's degree in CS, IT, Business Admin, MIS, Finance, or related field",
+          "status": "MISS",
+          "evidence": "Master of Social Work (MSW)",
+          "severity": "HIGH"
+        },
+        {
+          "requirement": "Minimum 5 years people/team management with service-oriented leadership",
+          "status": "MATCH",
+          "evidence": "Director of Technology (3 years, 2019-2022) + Program Manager roles",
+          "severity": "N/A"
+        },
+        {
+          "requirement": "Minimum 10 years managing business processes, applications, integrations in banking",
+          "status": "CRITICAL_MISS",
+          "evidence": "Only NASB FinTech 2019 (1 year consulting)",
+          "severity": "CRITICAL"
+        },
+        {
+          "requirement": "Minimum 10 years in banking industry project management",
+          "status": "CRITICAL_MISS",
+          "evidence": "Only NASB FinTech 2019 (1 year)",
+          "severity": "CRITICAL"
+        },
+        {
+          "requirement": "Extensive business application and financial operations experience",
+          "status": "PARTIAL",
+          "evidence": "Healthcare EHR and billing systems, not banking-specific",
+          "severity": "MEDIUM"
+        },
+        {
+          "requirement": "Strong understanding of core banking systems and data flows",
+          "status": "PARTIAL",
+          "evidence": "Resume mentions 'banking APIs, account information systems' from NASB role only",
+          "severity": "MEDIUM"
+        },
+        {
+          "requirement": "Expertise in multi-platform integrations and payments processing",
+          "status": "PARTIAL_MATCH",
+          "evidence": "Multi-platform integrations (HL7/FHIR) demonstrated; payments processing not mentioned",
+          "severity": "MEDIUM"
+        },
+        {
+          "requirement": "Demonstrated vendor management abilities",
+          "status": "MATCH",
+          "evidence": "$245K cost savings via vendor consolidation, contract negotiation, RFP evaluation",
+          "severity": "N/A"
+        },
+        {
+          "requirement": "Problem-solving and interpersonal skills",
+          "status": "MATCH",
+          "evidence": "Cross-functional team leadership, stakeholder alignment throughout resume",
+          "severity": "N/A"
+        },
+        {
+          "requirement": "Ability to communicate complex information clearly",
+          "status": "MATCH",
+          "evidence": "C-suite communication, executive stakeholder manager, weekly exec reporting",
+          "severity": "N/A"
+        },
+        {
+          "requirement": "Industry trend analysis and best practices knowledge",
+          "status": "PARTIAL",
+          "evidence": "Implied through modernization work, but not explicitly demonstrated",
+          "severity": "LOW"
+        },
+        {
+          "requirement": "Experience in regulated financial institutions",
+          "status": "PARTIAL",
+          "evidence": "1 year banking (NASB), extensive healthcare regulation (HIPAA, SOC2)",
+          "severity": "MEDIUM"
+        }
+      ]
+    }
+  },
+  "star_narrative_audit": {
+    "sample_bullets_evaluated": 7,
+    "average_star_score": 3.75,
+    "passive_voice_count": 0,
+    "missing_impact_metrics": 2,
+    "leadership_signals": 8,
+    "behavioral_competencies": {
+      "systems_thinking": {
+        "signals_found": 6,
+        "rating": 4,
+        "evidence": [
+          "Cloud migration management",
+          "Multi-platform integrations",
+          "API architecture (REST, FHIR, HL7)",
+          "Legacy system modernization",
+          "Data normalization and quality",
+          "Database management (SQL, PostgreSQL, NoSQL)"
+        ]
+      },
+      "operational_ownership": {
+        "signals_found": 8,
+        "rating": 4,
+        "evidence": [
+          "Built IT department from scratch",
+          "Owned $245K vendor savings initiative",
+          "Managed $100M+ portfolio",
+          "Metrics-driven governance implementation",
+          "Vendor negotiation and optimization",
+          "Team mentorship and scaling",
+          "Personal accountability throughout",
+          "Direct P&L ownership"
+        ]
+      },
+      "product_mindset": {
+        "signals_found": 5,
+        "rating": 3,
+        "evidence": [
+          "Voice of the Customer (VOC) program design",
+          "KPI development and metrics-driven strategy",
+          "User workflow optimization",
+          "Business case development",
+          "Limitation: IT operations focus vs. customer-facing product strategy"
+        ]
+      },
+      "collaboration": {
+        "signals_found": 6,
+        "rating": 4,
+        "evidence": [
+          "Cross-functional team leadership",
+          "C-suite communication",
+          "Executive stakeholder management",
+          "Partnership with Audit, Risk, Compliance teams",
+          "Vendor relationship management",
+          "Organizational transformation through alignment"
+        ]
+      }
+    }
+  },
+  "red_flags": [
+    {
+      "category": "CRITICAL_PROFESSIONALISM",
+      "severity": "CRITICAL",
+      "detail": "Resume contains 'REWRITE NOTES' section (lines 132-201) explaining strategic positioning decisions, gap-filling tactics, and awareness of missing banking experience. This reveals artificial tailoring and damages credibility.",
+      "count": 1,
+      "impact": "Hiring manager will immediately flag as 'candidate knows they don't qualify'"
+    },
+    {
+      "category": "EDUCATION_MISMATCH",
+      "severity": "HIGH",
+      "detail": "JD requires Bachelor's in CS, IT, Business Admin, MIS, Finance, or related field. Resume shows Master of Social Work (MSW), which is not in any related category.",
+      "count": 1,
+      "impact": "ATS screen-out + hiring manager concern about technical foundation"
+    },
+    {
+      "category": "CRITICAL_DOMAIN_GAP",
+      "severity": "CRITICAL",
+      "detail": "JD explicitly requires 'Minimum 10 years managing business processes, applications, integrations in banking' and '10 years in banking industry project management.' Resume shows only 1 year (NASB FinTech 2019).",
+      "count": 2,
+      "impact": "Likely auto-rejection at ATS level; disqualifying gap for hiring manager review"
+    },
+    {
+      "category": "CHRONOLOGY_RISK",
+      "severity": "MEDIUM",
+      "detail": "Experience not in strict reverse chronological order. Avirodha is listed as 'June 2018 – Present' (ongoing), but appears after Director of Technology (ended Feb 2022) and other roles.",
+      "count": 1,
+      "impact": "ATS parsing concern; signals intentional reordering for relevance rather than truth"
+    },
+    {
+      "category": "TIMELINE_CLARITY",
+      "severity": "MEDIUM",
+      "detail": "Multiple overlapping full-time and consulting roles (Director full-time 2019-2022, Avirodha concurrent 2018-Present, NASB/GEHA 2018-2019 concurrent) not clearly disambiguated as full-time vs. consulting.",
+      "count": 1,
+      "impact": "ATS parsing confusion; interviewer may question employment stability"
+    },
+    {
+      "category": "JOB_HOPPING_PATTERN",
+      "severity": "MEDIUM",
+      "detail": "Multiple 1-year tenures: NASB (1 yr, 2019), GEHA (1 yr, 2018-2019). Average full-time tenure: 2.7 years across 4 roles.",
+      "count": 2,
+      "impact": "Hiring manager concern about stability/retention, though consulting context mitigates"
+    },
+    {
+      "category": "STYLISTIC_UNIFORMITY",
+      "severity": "LOW",
+      "detail": "All work experience bullets follow parallel grammatical structure ('Built and led...', 'Architected and implemented...', 'Designed and deployed...'). Could suggest template-generated content.",
+      "count": 1,
+      "impact": "Low risk; specific details (company names, metrics, domain language) suggest authentic sourcing"
+    },
+    {
+      "category": "AUTHENTICITY_CONCERN",
+      "severity": "MEDIUM",
+      "detail": "Resume explicitly documents its own tailoring strategy, gap-filling tactics, and strategic positioning. Signals candidate is aware of significant gaps and attempting to hide them through framing.",
+      "count": 1,
+      "impact": "Undercuts authenticity; hiring managers distrust candidates who try to paper over disqualifying gaps"
+    }
+  ],
+  "missing_requirements": {
+    "must_haves": [
+      "Bachelor's degree in CS, IT, Business Admin, MIS, Finance, or related field (has MSW instead)",
+      "Minimum 10 years managing business processes, applications, integrations in banking (has 1 year)",
+      "Minimum 10 years in banking industry project management (has 1 year)"
+    ],
+    "preferred": [
+      "Payments processing expertise (not mentioned)",
+      "Direct core banking systems architecture experience (limited to 1-year NASB role)"
+    ]
+  },
+  "parsing_risks": [
+    "CHRONOLOGY_RISK: Not in strict reverse chronological order",
+    "CRITICAL: REWRITE_NOTES section included in resume (professionalism red flag)",
+    "TIMELINE_CLARITY: Full-time vs. consulting roles not disambiguated"
+  ],
+  "final_recommendation": "MAYBE",
+  "confidence_level": "HIGH",
+  "recommendation_rationale": "Strong operational leader with 3.75/5 narrative quality and clear execution excellence. However, two critical disqualifiers: (1) Only 1 year direct banking experience when JD requires 10 years (explicit, repeated requirement); (2) REWRITE NOTES section in resume reveals artificial positioning and damages credibility. Education mismatch (MSW vs. required field) adds third concern. Candidate would likely be auto-rejected at ATS level before reaching hiring manager. Exception pathway only viable through internal referral + direct phone screen.",
+  "priority_actions": [
+    {
+      "rank": 1,
+      "priority": "CRITICAL",
+      "category": "PROFESSIONALISM",
+      "description": "REMOVE 'REWRITE NOTES' section entirely before any submission. This section reveals gap-awareness and artificial positioning, damaging credibility with hiring manager.",
+      "current_state": "Lines 132-201 contain internal strategic notes",
+      "action": "Delete entire section",
+      "expected_ats_impact": "N/A (same content)",
+      "expected_hiring_manager_impact": "CRITICAL - regains professional posture, removes single biggest red flag"
+    },
+    {
+      "rank": 2,
+      "priority": "HIGH",
+      "category": "DOMAIN_ALIGNMENT",
+      "description": "Acknowledge the banking experience gap honestly in cover letter. Do NOT try to hide with 'mission-critical systems' equivalency framing. Instead: 'While my direct banking systems experience is 1 year (NASB 2019), I bring 10+ years leading mission-critical regulated environments and multi-platform integrations that directly transfer to core banking systems. I'm committed to rapid banking systems ramp.'",
+      "current_state": "Resume tries to position healthcare IT as equivalent to banking PM via language mirroring",
+      "action": "Rewrite cover letter with honest gap acknowledgment + confidence in ability to ramp",
+      "expected_ats_impact": "No change (won't improve match score)",
+      "expected_hiring_manager_impact": "+40% interview conversion (hiring managers respect candor over resume tricks)"
+    },
+    {
+      "rank": 3,
+      "priority": "HIGH",
+      "category": "EDUCATION",
+      "description": "Address education mismatch. If you have a Bachelor's degree in CS/IT/Business/MIS/Finance, surface it prominently. If not, acknowledge in cover letter: 'I hold an MSW, not a traditional IT degree, but have compensated through [certifications + 10+ years progressive technical leadership]'",
+      "current_state": "Master of Social Work (MSW) does not meet 'related field' requirement",
+      "action": "Either surface Bachelor's degree if applicable, or manage expectations in cover letter",
+      "expected_ats_impact": "+5-10% if Bachelor's in aligned field can be surfaced; otherwise prepare for requirement waiver conversation",
+      "expected_hiring_manager_impact": "Mitigates but doesn't eliminate education gap concern"
+    },
+    {
+      "rank": 4,
+      "priority": "MEDIUM",
+      "category": "CLARITY",
+      "description": "Clarify employment timeline by explicitly noting which roles were full-time vs. consulting. Example: 'Director of Technology | Cornerstones of Care | Full-Time | June 2019 – February 2022' and 'Avirodha Consulting | Concurrent Consulting Practice | June 2018 – Present'",
+      "current_state": "Multiple overlapping roles not clearly disambiguated",
+      "action": "Add role type labels (Full-Time / Concurrent Consulting) to each position",
+      "expected_ats_impact": "+3-5% (removes timeline parsing flags)",
+      "expected_hiring_manager_impact": "Removes interview concern about employment stability"
+    },
+    {
+      "rank": 5,
+      "priority": "MEDIUM",
+      "category": "NARRATIVE",
+      "description": "Strengthen Product Mindset signals by reframing 1-2 operational bullets to emphasize business transformation outcomes, not just cost cuts. Example: Instead of 'Architected cost-effective strategy achieving $245K savings', try 'Architected cost-effective strategy achieving $245K savings, enabling $[X] reinvestment in digital transformation initiative that delivered [business outcome]'",
+      "current_state": "Current STAR score 3.75/5; Product Mindset weakest at 3/5. Bullets are operations/cost-focused.",
+      "action": "Reframe 1-2 bullets to show business strategy + outcome connection",
+      "expected_ats_impact": "+2-3% (soft skill signal)",
+      "expected_hiring_manager_impact": "+15% (frames you as strategic thinker, not just operator)"
+    }
+  ],
+  "hiring_manager_summary": {
+    "strengths": [
+      "Strong operational leadership: $245K cost savings, 600+ employee scaling, 150+ mission-critical system implementations",
+      "Vendor mastery: Proven vendor consolidation, contract negotiation, ROI-driven selection",
+      "Regulated environment acumen: HIPAA, SOC2, compliance framework expertise (though healthcare-specific)",
+      "Team building: Built IT department from scratch, embedded Agile practices, mentored teams",
+      "Narrative quality: 3.75/5 STAR score, strong action-oriented storytelling with quantified outcomes"
+    ],
+    "critical_gaps": [
+      "CRITICAL: Only 1 year direct banking experience vs. 10 years required (explicit JD requirement, repeated twice)",
+      "CRITICAL: REWRITE NOTES section reveals artificial positioning and damages credibility",
+      "Education mismatch: MSW vs. required CS/IT/Business/MIS/Finance",
+      "Missing payments processing expertise (mentioned in JD, not in resume)",
+      "Limited product mindset demonstration (3/5 vs. needed 3.5+)"
+    ],
+    "likely_recruiter_reaction": "Auto-reject at ATS level due to missing '10 years banking PM' requirement. If candidate advances to human review, REWRITE NOTES section will trigger immediate disqualification.",
+    "best_case_scenario": "Internal referral + phone screen with hiring manager who values operational track record over domain pedigree, with explicit 90-day mentor plan to close banking systems knowledge gap"
+  }
+}

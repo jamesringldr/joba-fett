@@ -1,0 +1,14 @@
+{
+  "job_id": "13f511b2-24d4-4138-b2dd-7259761ac94c",
+  "company_id": "ac20139a-7b04-4a78-a026-a3fa99481ceb",
+  "company_name": "Spur Reply",
+  "job_title": "Marketing Project Manager",
+  "job_date_tag": "2026-05-21",
+  "stage": "backlog",
+  "resolution": "none",
+  "lifecycle": "open",
+  "closed_at": null,
+  "api_url": "http://127.0.0.1:8000",
+  "company_dir": "/Users/JamesO/DevWork/InProgress/JobHunter/docs/obsidian/JobHuntr/Applications/Companies/Spur Reply",
+  "job_dir": "/Users/JamesO/DevWork/InProgress/JobHunter/docs/obsidian/JobHuntr/Applications/Companies/Spur Reply/Jobs/Marketing Project Manager - 2026-05-21"
+}

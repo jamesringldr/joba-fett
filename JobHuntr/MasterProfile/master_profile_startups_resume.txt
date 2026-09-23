@@ -1,0 +1,91 @@
+JAMES OEHRING
+Overland Park, KS (Kansas City metro)
+james@ringldr.com  |  816.225.8592  |  linkedin.com/in/james-oehring
+vanyshr.com  |  github.com/vanyshr
+
+Operator-builder. Stood up technology for a 600-person org. Ships product.
+
+I stand up delivery systems and I ship software. At Cornerstones of Care I built the first dedicated IT function for a 600-person multi-site nonprofit — no CIO, team of 10 hired from scratch, $245K+ a year pulled out of vendors, help desk 35% faster, phishing click-through cut ~70% in six months. At Netsmart I ran 150+ enterprise EHR implementations and a $100M+ portfolio. I now run ringldr: Vanyshr (a privacy PWA I founded and built full-stack) plus client systems that have to work on a plant floor, not in a demo. The studio is winding down so I can join one company full-time.
+
+Remote-first from Kansas City. Travel and periodic onsite are fine. Will relocate for the right seat.
+
+
+EXPERIENCE
+
+ringldr  —  Founding Operator
+Kansas City, MO area  |  June 2018 – Present
+Small studio: product plus client systems. Winding down to join full-time.
+
+Vanyshr (product)  —  vanyshr.com  |  github.com/vanyshr
+- Founded and built a privacy PWA that finds a person's publicly exposed data and automates broker opt-out / removal requests.
+- Full stack, solo: React, TypeScript, Vite, Supabase, pnpm monorepo, Turborepo, GitHub Actions. Scrapers, auth, entity resolution on messy people-data, opt-out agents, CI/CD with SAST gates.
+
+Client systems (production)
+- Gasket and metal manufacturing plant: designed, developed, deployed, and trained operators on predictive maintenance from machine logs. 20% fewer machines down; on-time maintenance from under 50% to 90%. Same client: delivery-velocity forecasting that cut late deliveries.
+- Built a GCP-native bidding-automation web app, architecture through deployment. Led a separate client on-prem to GCP migration through stabilization.
+- For a client organization (not ringldr headcount): stood up an AI operating model — use-case scoring on ROI / feasibility / risk, 15+ systems into production, 200+ operators upskilled, Responsible AI policy with their legal/compliance.
+
+Studio delivery
+- Internal project-health framework: +22% on-time delivery, -18% budget overruns in year one.
+- C-suite liaison on enterprise integrations (EHR, IT ops, vendor selection, cybersecurity) under HIPAA and SOC 2.
+
+
+Cornerstones of Care  —  Director of Technology
+Kansas City, MO  |  June 2019 – February 2022
+Healthcare nonprofit, 600+ employees, multi-site (foster care / behavioral health).
+
+- Stood up the first dedicated IT and program-management function. Reported to the CFO. There was no CIO. Designed the roles, hired the founding team of 10, built governance and service delivery from scratch.
+- Owned every technology vendor: selection, contracts, implementation, performance, renewal. $245K+ annual savings from optimization and renegotiation.
+- Replaced email-only intake with a real help-desk workflow. Average resolution time down 35%; internal satisfaction up.
+- Cybersecurity and anti-phishing program for 600+ employees. Click-through dropped ~70% in six months.
+- Voice of the Customer program across IT and EHR so the people using the systems set the backlog.
+- Embedded Agile/DevOps and gave leadership the first real-time view of IT performance.
+
+
+GEHA  —  Project Manager / Scrum Master
+Lee's Summit, MO  |  June 2018 – June 2019
+Federal Employee Health Benefits, 2M+ members.
+
+- On-prem to Azure migration, including conversion and stabilization of hundreds of VDI environments.
+- Litigation-risk program: defensible destruction and updated retention policy.
+- Agile delivery of a member CX initiative serving 2M+ members.
+
+
+Netsmart Technologies  —  Project / Program Manager
+Overland Park, KS  |  June 2014 – June 2018
+Healthcare IT / EHR vendor.
+
+- 150+ enterprise EHR implementations, $100M+ portfolio, design through operational readiness.
+- Platform redesign for a nationwide acute-care population-health org: 3,000+ development hours, internal team of 20+, client team of 15. Phase 1 on time on a 9-month clock.
+- State of Alabama Reporting Module — state and federal compliance stakeholders.
+- Regular gate and quarterly presentations to hospital and behavioral-health C-suites and boards.
+
+
+ReDiscover  —  Clinical Case Manager
+Kansas City / Lee's Summit, MO  |  June 2011 – May 2014
+Community mental-health nonprofit. Behavioral-health clinical case management, including through the MSW.
+
+
+Bethesda Lutheran Communities  —  Clinical Support Manager
+Through 2011 (during undergrad)
+Direct clinical support with IDD populations.
+
+
+SELECTED PROJECTS
+
+Vanyshr (2024–present, pausing) — Founder. Privacy PWA. vanyshr.com · github.com/vanyshr
+Manufacturing AI (ringldr client) — Predictive maintenance + delivery forecasting in a gasket/metal plant. 20% downtime reduction; maintenance compliance under 50% to 90%.
+SEEKR (2021) — Program lead on a $6M InsurTech consumer mobile launch.
+NASB (2019) — Compliance-driven consumer banking mobile redesign (~20k users).
+
+
+EDUCATION
+
+University of Kansas — Master of Social Work (MSW), 2013, Lawrence, KS
+Northwest Missouri State University — B.S. Psychology / Sociology (dual), 2011, Maryville, MO
+
+
+CERTIFICATIONS
+
+Certified Scrum Master (CSM) — Scrum Alliance, 2019
+Certified Product Owner (CSPO) — Scrum Alliance, 2019

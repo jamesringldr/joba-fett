@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "candidate_name": "James Oehring",
+    "target_role": "Program Manager - Strategy & Implementation, PMO",
+    "target_company": "Black & Veatch Corporation",
+    "location": "Overland Park, KS",
+    "evaluation_date": "2026-07-07",
+    "evaluator": "HR-Critic Agent v1",
+    "evaluation_model": "Algorithmic Sifting & Executive Heuristics Framework"
+  },
+  "scores": {
+    "ats_match_percent": 73,
+    "ats_interpretation": "DECENT_COMPATIBILITY",
+    "ats_callback_rate_estimate": "11%",
+    "star_narrative_score": 3.75,
+    "systems_thinking": 4.5,
+    "operational_ownership": 4.8,
+    "product_mindset": 4.5,
+    "collaboration": 4.2,
+    "overall_narrative_strength": 4.5,
+    "leadership_signals": 4.5,
+    "integrity_status": "PASS"
+  },
+  "module_results": {
+    "module_1_parsing_audit": {
+      "status": "PASS",
+      "layout_complexity": "PASS",
+      "standard_headings": "PASS",
+      "contact_info": "PASS",
+      "date_format_consistency": "PASS",
+      "chronological_order": "PASS",
+      "risks_found": 0,
+      "details": "Single-column text layout, standard section headers, contact info at top, consistent date formatting (Month YYYY), reverse-chronological employment history."
+    },
+    "module_2_semantic_matching": {
+      "must_haves": {
+        "total": 5,
+        "matched": 5,
+        "match_percent": 100,
+        "weighted_contribution": 0.5
+      },
+      "preferred": {
+        "total": 8,
+        "matched": 6,
+        "match_percent": 75,
+        "weighted_contribution": 0.225
+      },
+      "nice_to_haves": {
+        "total": 0,
+        "matched": 0,
+        "match_percent": 0,
+        "weighted_contribution": 0
+      },
+      "responsibility_alignment": "95%",
+      "years_of_experience": {
+        "required": 10,
+        "demonstrated": 16,
+        "status": "EXCEEDS"
+      },
+      "education_match": {
+        "required": "Bachelor's degree or equivalent",
+        "demonstrated": "BS Psychology/Sociology (2011), MSW (2013)",
+        "status": "EXCEEDS"
+      },
+      "domain_background": {
+        "required": "Utilities, energy, infrastructure, or engineering consulting (preferred)",
+        "demonstrated": "Healthcare IT consulting and program management",
+        "status": "GAP_MINOR"
+      },
+      "certification_status": {
+        "pmp": "NOT_PRESENT",
+        "pgmp": "NOT_PRESENT",
+        "csm": "PRESENT",
+        "cspo": "PRESENT",
+        "note": "PMP marked 'strongly preferred'; PgMP marked 'highly aligned'"
+      }
+    },
+    "module_3_star_audit": {
+      "total_bullets_evaluated": 16,
+      "average_star_score": 3.75,
+      "star_score_distribution": {
+        "4_out_of_4": 12,
+        "3_out_of_4": 3,
+        "2_out_of_4": 1,
+        "1_out_of_4": 0
+      },
+      "passive_language_findings": 2,
+      "passive_language_percent": 12.5,
+      "bullets_lacking_quantified_outcome": 4,
+      "outcome_articulation_percent": 75,
+      "leadership_signals_present": "YES",
+      "leadership_rating": 4.5,
+      "behavioral_competency_summary": {
+        "systems_thinking": {
+          "signals_found": 5,
+          "rating": 4.5,
+          "evidence": "Workflow optimization, framework engineering, cloud migration architecture, portfolio SDLC design, governance frameworks"
+        },
+        "operational_ownership": {
+          "signals_found": 13,
+          "rating": 4.8,
+          "evidence": "Clear accountability across all roles; 'Led,' 'Designed,' 'Engineered' verbs dominant; 75% of bullets show quantified outcomes"
+        },
+        "product_mindset": {
+          "signals_found": 8,
+          "rating": 4.5,
+          "evidence": "KPI design, cost optimization ($245K savings), training outcomes (800+ employees), CSAT/VOC alignment, strategic decision support"
+        },
+        "collaboration": {
+          "signals_found": 6,
+          "rating": 4.2,
+          "evidence": "Cross-functional coordination, regulatory partnerships (State of Alabama), stakeholder alignment, team enablement (50+ tools, 20+ programs)"
+        }
+      }
+    },
+    "module_4_integrity_audit": {
+      "red_flags": [
+        {
+          "category": "Timeline_Overlap",
+          "severity": "MEDIUM",
+          "detail": "Avirodha listed as 'June 2018 – Present' overlaps with Cornerstones (June 2019 – Feb 2022). Likely explanation: concurrent consulting + full-time employment, but requires clarification.",
+          "count": 1,
+          "status": "OBSERVATION",
+          "addressable": true
+        },
+        {
+          "category": "Certification_Gap",
+          "severity": "MEDIUM",
+          "detail": "PMP certification marked 'strongly preferred' in JD; not present on resume. PgMP marked 'highly aligned,' also absent.",
+          "count": 2,
+          "status": "GAP",
+          "addressable": true
+        }
+      ],
+      "grammar_typos": 0,
+      "career_gaps": 0,
+      "job_hopping": "NO",
+      "average_tenure_per_role": "4 years",
+      "education_integrity": "PASS",
+      "ai_manipulation_markers": 0,
+      "quantitative_cliche_assessment": "AUTHENTIC - Metrics vary (22%, 18%, $245K, 35%, 50%, 40%+); no identical repeats",
+      "hidden_keyword_stuffing": "NOT_DETECTED",
+      "stylistic_uniformity": "NOT_DETECTED",
+      "jargon_bloat": "PASS - All acronyms standard industry terms",
+      "authenticity_assessment": "AUTHENTIC - Grounded in specific details (company names, project scope, localized context)",
+      "overall_integrity": "PASS"
+    }
+  },
+  "missing_requirements": {
+    "must_haves": [],
+    "preferred": [
+      "PMP certification (strongly preferred)",
+      "PgMP certification (highly aligned)",
+      "Utilities, energy, infrastructure, or engineering consulting background"
+    ],
+    "nice_to_haves": [
+      "Direct proposal/bid support in utilities sector"
+    ]
+  },
+  "domain_assessment": {
+    "candidate_domain": "Healthcare IT, enterprise program management, regulated environments",
+    "target_domain": "Utilities, energy, infrastructure, engineering consulting",
+    "gap_analysis": "Domain pivot is real but mitigated by PMO positioning at governance layer (transferable) rather than domain-specific technical layer",
+    "transferability_score": 4.0,
+    "transferability_rationale": "PMO frameworks, metrics, governance, and training discipline are sector-agnostic. Regulatory rigor from healthcare translates to utilities/energy. Primary adjustment: explicit infrastructure/utilities language bridging needed."
+  },
+  "parsing_risks": [],
+  "red_flag_summary": {
+    "total_flags": 2,
+    "critical": 0,
+    "high": 0,
+    "medium": 2,
+    "low": 0,
+    "overall_assessment": "PASS with observations"
+  },
+  "final_recommendation": "YES",
+  "recommendation_tier": "Qualified with addressable gaps",
+  "recommendation_rationale": "Strong behavioral competencies across all four core dimensions (Operational Ownership 4.8/5, Systems Thinking 4.5/5, Product Mindset 4.5/5, Collaboration 4.2/5). Excellent STAR narrative quality (3.75/5, well above 3.5 threshold). 16 years directly relevant experience exceeds JD minimums. No integrity concerns; authentic, grounded resume. Primary gaps are certification-based (PMP/PgMP) and domain-focused, both addressable through targeted action.",
+  "confidence_level": "MODERATE_HIGH",
+  "confidence_percent": 75,
+  "confidence_rationale": "Behavioral signals are strong and consistent across multiple roles. ATS match is borderline (73% vs 80% threshold) due to missing certifications (preferred, not required). Domain gap is real but mitigated by transferable expertise. Professional polish and specificity reduce uncertainty about authenticity.",
+  "callback_probability": {
+    "estimate_percent": 11,
+    "range": "11-13%",
+    "interpretation": "Decent Compatibility range; slightly above baseline due to strong narrative quality"
+  },
+  "priority_actions": [
+    {
+      "rank": 1,
+      "category": "Certification_Gap",
+      "priority_level": "HIGH",
+      "description": "Pursue or reference PMP certification pathway. If already pursuing, add 'PMP Exam Scheduled Q3 2026' or 'PMI Member in good standing.' If not pursuing, consider adding to development plan.",
+      "current_state": "CSM and CSPO present; PMP marked 'strongly preferred' in JD but absent from resume",
+      "suggested_fix": "Add to Technical Skills or Certifications: 'Project Management Institute (PMI) Professional Membership' and reference to PMP certification pursuit or examination timeline",
+      "expected_ats_impact": "+6-8%",
+      "expected_ats_target": "73% → 79-81% (into Strong Alignment range)",
+      "effort_level": "LOW_TO_MODERATE",
+      "estimated_effort_hours": 1
+    },
+    {
+      "rank": 2,
+      "category": "Domain_Translation",
+      "priority_level": "HIGH",
+      "description": "Add infrastructure/utilities domain translation language to bridge healthcare IT experience to B&V's sectors. Reframe existing governance expertise as sector-agnostic.",
+      "current_state": "Resume is healthcare IT–focused; no explicit utilities/energy/infrastructure mentions",
+      "suggested_fix": "Add to Professional Summary: 'PMO expertise transferable across healthcare IT, utilities, energy, and infrastructure sectors—skilled at designing governance for complex, regulated environments.' In bullets, broaden language from 'IT teams' to 'technical delivery teams in mission-critical environments.' Add to Core Competencies: 'Large-scale infrastructure and capital project governance.'",
+      "expected_ats_impact": "+4-6%",
+      "expected_ats_target": "73% → 77-79%",
+      "effort_level": "LOW",
+      "estimated_effort_hours": 0.5
+    },
+    {
+      "rank": 3,
+      "category": "Timeline_Clarity",
+      "priority_level": "HIGH",
+      "description": "Clarify Avirodha/Cornerstones timeline overlap to remove authenticity question mark. Update dates to show full employment history without ambiguity.",
+      "current_state": "Avirodha listed as 'June 2018 – Present' but overlaps with Cornerstones (June 2019 – Feb 2022). Creates hiring manager concern about accuracy.",
+      "suggested_fix": "Either: (a) Update Avirodha to 'June 2018 – June 2019, June 2022 – Present' if interrupted, OR (b) Add parenthetical '(concurrent consulting with Cornerstones 2019-2022)' to clarify dual role, OR (c) Restructure to show full-time primary + concurrent secondary roles more explicitly.",
+      "expected_ats_impact": "0% (ATS neutral)",
+      "expected_confidence_impact": "+10-15%",
+      "effort_level": "LOW",
+      "estimated_effort_hours": 0.25
+    },
+    {
+      "rank": 4,
+      "category": "Resource_Planning_Emphasis",
+      "priority_level": "MEDIUM",
+      "description": "Strengthen resource planning language to directly match JD responsibility 'Cross-functional resource demand planning and staffing optimization.'",
+      "current_state": "'Resource utilization' appears in metrics framework; resource planning not explicitly called out",
+      "suggested_fix": "Add or enhance bullet: 'Conducted cross-functional resource demand planning and staffing optimization for concurrent program delivery' (mirrors exact JD language)",
+      "expected_ats_impact": "+2-3%",
+      "effort_level": "LOW",
+      "estimated_effort_hours": 0.25
+    },
+    {
+      "rank": 5,
+      "category": "PMO_Service_Model",
+      "priority_level": "MEDIUM",
+      "description": "Add 'PMO as a Service' or partnership strategy language to address JD requirement 'Champion PMO as a Service strategy across partnerships.'",
+      "current_state": "'PMO Strategy' mentioned; partnership/services focus less explicit",
+      "suggested_fix": "In Avirodha section, add: 'Designed and scaled PMO-as-a-Service models supporting internal and external clients'",
+      "expected_ats_impact": "+1-2%",
+      "effort_level": "LOW",
+      "estimated_effort_hours": 0.25
+    },
+    {
+      "rank": 6,
+      "category": "Certification_Development",
+      "priority_level": "MEDIUM",
+      "description": "Add PgMP reference or development pathway (nice-to-have differentiator; 'highly aligned' in JD)",
+      "current_state": "PgMP certification not mentioned",
+      "suggested_fix": "Add: 'Pursuing PgMP certification to formalize portfolio management expertise' or 'PgMP alignment focus for 2026-2027'",
+      "expected_ats_impact": "+1-2%",
+      "effort_level": "LOW",
+      "estimated_effort_hours": 0.25
+    },
+    {
+      "rank": 7,
+      "category": "Regulated_Environment_Framing",
+      "priority_level": "LOW",
+      "description": "Expand regulated environment language to signal domain-agnostic regulatory discipline applicable to utilities/energy sector.",
+      "current_state": "HIPAA, SOC2, data privacy mentioned; healthcare regulation-specific",
+      "suggested_fix": "Reframe: 'Designed governance frameworks for highly regulated environments (healthcare, federal compliance, data retention law); expertise transferable to energy/utilities regulatory landscape'",
+      "expected_ats_impact": "0-2%",
+      "expected_perception_impact": "+2-3% authenticity",
+      "effort_level": "LOW",
+      "estimated_effort_hours": 0.25
+    }
+  ],
+  "risk_assessment": {
+    "overall_risk": "LOW_TO_MODERATE",
+    "risk_factors": [
+      {
+        "factor": "ATS Match Borderline",
+        "severity": "MODERATE",
+        "impact": "May not pass automated screening without certification additions",
+        "mitigation": "Address High Priority #1-2 immediately"
+      },
+      {
+        "factor": "Domain Background Gap",
+        "severity": "MODERATE",
+        "impact": "Hiring manager may question familiarity with utilities/energy sector specifics",
+        "mitigation": "Prepare domain translation narrative; interview prep on infrastructure PMO context"
+      },
+      {
+        "factor": "Timeline Overlap",
+        "severity": "LOW",
+        "impact": "Could trigger authenticity questions if unexplained",
+        "mitigation": "Clarify in resume update; prepare brief explanation for phone screen"
+      },
+      {
+        "factor": "No Integrity Red Flags",
+        "severity": "LOW",
+        "impact": "Positive; strong authenticity indicators",
+        "mitigation": "None needed"
+      }
+    ],
+    "risk_fade_timeline": "Risk significantly decreases within 2-4 weeks if High Priority items addressed"
+  },
+  "interview_readiness": {
+    "strengths": [
+      "Strong STAR narratives ready for behavioral probes",
+      "Quantified outcomes demonstrate impact consistently",
+      "PMO expertise positioned for deep technical discussion",
+      "Regulatory/compliance thinking evident and transferable"
+    ],
+    "preparation_areas": [
+      "Develop clear stories about infrastructure/utility-scale thinking",
+      "Articulate how healthcare PMO discipline transfers to energy/utilities",
+      "Prepare explanation for domain transition rationale",
+      "Ready answer for Avirodha/Cornerstones timeline clarity"
+    ]
+  },
+  "summary_for_candidate": {
+    "headline": "Strong Operational Fit with Addressable Gaps",
+    "elevator_pitch": "You are a PMO strategist with deep operational discipline who has proven ability to design, implement, and scale governance frameworks across large, regulated organizations. Behavioral competencies are well above threshold. Primary barriers to 'STRONG YES' are certifications (addressable) and domain background (mitigated by PMO expertise at governance layer). With modest action on High Priority backlog, this becomes compelling candidacy.",
+    "next_steps": [
+      "1. Address High Priority items #1-3 within 7 days",
+      "2. Review answers to likely interview questions on domain transition",
+      "3. Develop narrative for infrastructure/utility-scale PMO thinking",
+      "4. Monitor for ATS match improvement post-submission (target 80%+)",
+      "5. Prepare for potential phone screening on timeline clarification"
+    ]
+  }
+}

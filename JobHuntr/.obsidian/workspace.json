@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2d9edfe65d1fe0b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d190500c95fd6787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "030c69eb26643e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Docs/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "644a7541321e43be",
+    "type": "split",
+    "children": [
+      {
+        "id": "72766af9806834c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c4a269d83339ca7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "18e94b06d36b5531",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53f7cfe73ddccf9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5b83f0545bbfe9ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74a6008c06f79fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "189456398a0e288e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "f176c1a3c1599972",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "68b10c20540ef5da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0316075ddec32cd9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "54dee05f6ebad389",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "030c69eb26643e88",
+  "lastOpenFiles": [
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Job Description.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/final_files/James Oehring Resume - Government Employees Health Association, Inc..pdf",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Resume.html",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Resume.tex",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/final_files/James Oehring Resume - Government Employees Health Association, Inc..md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Humanize Audit.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Humanized Resume.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/ATS Audit.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Audited Resume.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Resume PreDraft.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Profile Enrichment.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Gap Analysis.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Job Recon Fields.json",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs/Job Recon.md",
+    "Project Docs/Untitled.md",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/job.meta.json",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/final_files",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15/agent_outputs",
+    "Applications/Companies/Government Employees Health Association, Inc./EPMO Program Manager - 2026-05-15",
+    "Applications/Companies/Government Employees Health Association, Inc.",
+    "Applications/Companies/Black & Veatch/Program Manager - Strategy & Implementation, PMO - 2026-05-15/agent_outputs/Profile Enrichment.md",
+    "Applications/Companies/Black & Veatch/Program Manager - Strategy & Implementation, PMO - 2026-05-15/agent_outputs/Gap Analysis.md",
+    "Applications/Companies/Black & Veatch/Program Manager - Strategy & Implementation, PMO - 2026-05-15/job.meta.json",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/ATS Audit.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/Job Recon.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/Gap Analysis.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/Humanize Audit.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/final_files/James Oehring Resume - Jack Henry.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/Humanized Resume.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/Audited Resume.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/Resume PreDraft.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/Profile Enrichment.md",
+    "Applications/Companies/Jack Henry/Senior Strategic Program Manager - 2026-05-13/agent_outputs/Job Description.md",
+    "Applications/Companies/Black & Veatch/Program Manager - Strategy & Implementation, PMO - 2026-05-15/agent_outputs/Job Recon.md",
+    "Applications/Companies/Black & Veatch/Program Manager - Strategy & Implementation, PMO - 2026-05-15/agent_outputs/Job Description.md"
+  ]
+}

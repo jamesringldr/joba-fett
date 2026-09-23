@@ -1,0 +1,22 @@
+{
+  "job_id": "550e8400-e29b-41d4-a716-446655440000",
+  "company_name": "Busey Bank",
+  "job_title": "Director of Business Systems & Applications",
+  "job_date_tag": "2026-07-07",
+  "job_url": "https://careers.busey.com/job/Busey-Bank-Director-of-Business-Systems-Applications-JR102357---F-xJ57Z_MizU_e8MRI5hu?mode=apply&iis=LinkedIn",
+  "job_location": "Leawood, KS / Dallas, TX / Fort Worth, TX",
+  "salary_range": "$120,000 - $165,000/year",
+  "persona_tag": "Technical Program Manager — Banking/FinTech Leadership",
+  "job_fit_score": {
+    "rating": 7,
+    "rationale": "Strong domain adjacency with 10+ years banking/financial services IT program management. Director-level leadership, vendor management, and enterprise-scale experience directly align with role requirements. Primary gap: limited direct core banking systems exposure (healthcare IT focus), though integration and vendor management patterns transfer well."
+  },
+  "api_url": "http://127.0.0.1:8000",
+  "lifecycle": "open",
+  "stage": "backlog",
+  "resolution": "none",
+  "job_dir": "/Users/jameso/DevWork/Joba-Fett/JobHuntr/Applications/Companies/Busey Bank/Jobs/Director of Business Systems & Applications - 2026-07-07",
+  "company_dir": "/Users/jameso/DevWork/Joba-Fett/JobHuntr/Applications/Companies/Busey Bank",
+  "created_at": "2026-07-07T00:00:00Z",
+  "updated_at": "2026-07-07T00:00:00Z"
+}

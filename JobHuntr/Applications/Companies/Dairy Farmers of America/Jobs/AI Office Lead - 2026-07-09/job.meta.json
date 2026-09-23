@@ -1,0 +1,22 @@
+{
+  "job_id": "3B16907D-909C-47A6-A062-87A8CACEF9DB",
+  "company_name": "Dairy Farmers of America",
+  "job_title": "AI Office Lead",
+  "job_date_tag": "2026-07-09",
+  "job_url": "https://myjobs.adp.com/dfa/cx/job-details?__tx_annotation=false&rb=LINKEDIN&reqId=5001205311506",
+  "job_location": "Kansas City, Kansas, United States",
+  "salary_range": "$150,000 - $200,000 / annually",
+  "persona_tag": "Technology Executive — Enterprise AI Systems",
+  "job_fit_score": {
+    "rating": 8,
+    "rationale": "Strong alignment between enterprise AI leadership scope and James's hybrid profile — Director-level IT governance plus hands-on AI/LLM engineering. Program governance, executive communication, and compliance fluency map directly. Primary gaps are dairy/food manufacturing domain (preferred) and no formally titled AI CoE role."
+  },
+  "api_url": "http://127.0.0.1:8000",
+  "lifecycle": "open",
+  "stage": "backlog",
+  "resolution": "none",
+  "job_dir": "/Users/jameso/DevWork/Joba-Fett/JobHuntr/Applications/Companies/Dairy Farmers of America/Jobs/AI Office Lead - 2026-07-09",
+  "company_dir": "/Users/jameso/DevWork/Joba-Fett/JobHuntr/Applications/Companies/Dairy Farmers of America",
+  "created_at": "2026-07-09T14:04:00-05:00",
+  "updated_at": "2026-07-09T14:04:00-05:00"
+}

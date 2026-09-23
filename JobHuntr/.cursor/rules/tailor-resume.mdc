@@ -1,0 +1,27 @@
+---
+description: How to tailor a resume in this repo (direct/Cursor use)
+alwaysApply: true
+---
+
+# Tailoring a resume in this repo
+
+When asked to tailor a resume / start a new application / run the tailor sequence (the `/newjob`
+command triggers this), **follow [RUN.md](../../RUN.md)** — it is the authoritative driver. Do not
+improvise the flow.
+
+Key rules from RUN.md:
+- **Paths:** repo-root-relative — real data lives at `Applications/` and
+  `MasterProfile/master_profile.md` (`{{vault_root}} = .`). The old `docs/obsidian/JobHuntr`
+  routing has been removed.
+- **Entrypoint:** `prompt-library/tailor-resume-seq/00-bootstrap.md`.
+- **Intake:** bootstrap captures `company_url` + `job_posting_url` + JD + a manual **Candidate
+  Persona** block. JD is fetched from the URL (stub + ⚠️ notice if it extracts poorly);
+  seniority/salary go to `Job Meta.json`; the persona is saved to `Candidate Persona.md` — the
+  voice contract for Steps 3–6, and excluded from the HR-Critic gate.
+- **Order:** 01 job-intel → 02 gap → 03 rewrite → 04 ats → **05 HR-CRITIC gate** → 06 humanize
+  → 07 final. One step at a time, wait for approval between steps.
+- **HR-Critic is a mandatory, isolated, looping gate after Step 4.** Run it in a **new chat /
+  fresh context** with ONLY `Audited Resume.md` + `Job Description.md` — never the gap analysis,
+  enrichment, rewrite rationale, or this thread's history. Loop until
+  `final_recommendation` is `YES`/`STRONG_YES`, feeding the backlog back to the previous step;
+  cap at 3 loops then escalate. See RUN.md §3.

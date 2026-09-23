@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "candidate_name": "James Oehring",
+    "target_role": "AI Office Lead",
+    "target_company": "Dairy Farmers of America",
+    "requisition_id": "36517",
+    "salary_range": "$150,000 - $200,000 / annually",
+    "evaluation_date": "2026-07-09",
+    "evaluator": "HR-Critic Agent v1"
+  },
+  "scores": {
+    "ats_match_percent": 87,
+    "ats_match_percent_with_recency_weighting": 89,
+    "ats_interpretation": "STRONG_ALIGNMENT",
+    "ats_match_threshold": 80,
+    "star_narrative_score": 3.7,
+    "systems_thinking": 5,
+    "operational_ownership": 5,
+    "product_mindset": 4,
+    "collaboration": 4,
+    "behavioral_competency_average": 4.5,
+    "integrity_status": "PASS",
+    "overall_narrative_strength": 4.5,
+    "education_match": false,
+    "education_match_partial": true,
+    "required_experience_years_met": true,
+    "required_leadership_years_met": true,
+    "years_relevant_it_experience": 12,
+    "chronological_order_compliance": true
+  },
+  "parsing_audit": {
+    "layout_complexity": "PASS",
+    "standard_section_headings": "PASS",
+    "contact_info_placement": "PASS",
+    "date_format_consistency": "PASS",
+    "chronological_order": "PASS",
+    "overall_parsing_status": "PASS"
+  },
+  "parsing_risks": [
+    "Markdown mailto link on email may reduce parse fidelity in some ATS",
+    "EXPERIENCE header variant of Work Experience — low risk"
+  ],
+  "semantic_matching": {
+    "must_haves": {
+      "total_requirements": 15,
+      "clear_matches": 13,
+      "partial_matches": 1,
+      "clear_misses": 1,
+      "match_percentage": 87
+    },
+    "preferred": {
+      "total_requirements": 5,
+      "clear_matches": 1,
+      "partial_matches": 1,
+      "clear_misses": 3,
+      "match_percentage": 40
+    }
+  },
+  "red_flags": [
+    {
+      "category": "EMPLOYER_OPACITY",
+      "severity": "MEDIUM",
+      "detail": "Stealth (AI Startup) prevents external verification of CAIO scope and company scale",
+      "count": 1
+    },
+    {
+      "category": "KEYWORD_DENSITY",
+      "severity": "LOW",
+      "detail": "CAIO section contains long, keyword-rich compound bullets that may read as ATS-optimized to skeptical human reviewers",
+      "count": 1
+    },
+    {
+      "category": "TENURE_RECENCY",
+      "severity": "LOW",
+      "detail": "Chief AI Officer role began September 2025 (~10 months); most relevant experience is very recent",
+      "count": 1
+    },
+    {
+      "category": "TIMELINE_CLARITY",
+      "severity": "LOW",
+      "detail": "Concurrent Avirodha consulting (2018–Present) and Stealth CAIO (2025–Present) not labeled full-time vs consulting",
+      "count": 1
+    }
+  ],
+  "missing_requirements": {
+    "must_haves": [
+      "Undergraduate degree in Computer Science, Data Science, Information Systems, Business Administration, or closely related field (candidate holds BS Psychology/Sociology + MSW)"
+    ],
+    "preferred": [
+      "Master's degree in technology management or AI strategy",
+      "PMP, ITIL, or CDO certification",
+      "Dairy or food manufacturing industry experience"
+    ]
+  },
+  "final_recommendation": "YES",
+  "confidence_level": "MODERATE",
+  "recommendation_rationale": "Strong alignment on AI Office core functions: operating model, CoE, steering committee governance, power-user adoption, Responsible AI, and portfolio management. Exceeds experience minimums. Preferred gaps (degree field, dairy domain, PMP) are not disqualifying for a senior AI leadership hire. No critical integrity issues. Advance to interview with cover letter addressing Stealth employer context.",
+  "priority_actions": [
+    {
+      "rank": 1,
+      "priority": "HIGH",
+      "category": "TITLE_ALIGNMENT",
+      "description": "Add AI Office Lead to headline to mirror JD title for human reviewers",
+      "expected_ats_impact": "+3-5% human screen conversion"
+    },
+    {
+      "rank": 2,
+      "priority": "HIGH",
+      "category": "AUTHENTICITY",
+      "description": "Explain Stealth (AI Startup) scope, scale, and confidentiality in cover letter",
+      "expected_ats_impact": "N/A — interview-stage impact"
+    },
+    {
+      "rank": 3,
+      "priority": "HIGH",
+      "category": "NARRATIVE",
+      "description": "Split 2-3 longest CAIO bullets for scanability; add metrics to engineering-heavy bullets where possible",
+      "expected_ats_impact": "Improves STAR score toward 4.0+"
+    },
+    {
+      "rank": 4,
+      "priority": "MEDIUM",
+      "category": "EDUCATION",
+      "description": "Cover letter: frame 12+ years IT leadership as equivalent to related-field degree requirement",
+      "expected_ats_impact": "Mitigates degree filter risk"
+    },
+    {
+      "rank": 5,
+      "priority": "MEDIUM",
+      "category": "DOMAIN",
+      "description": "Cover letter: commercial manufacturing AI delivery as bridge to DFA; do not claim dairy experience",
+      "expected_ats_impact": "N/A"
+    },
+    {
+      "rank": 6,
+      "priority": "LOW",
+      "category": "PARSING",
+      "description": "Use plain-text email (remove mailto markdown) in PDF submission",
+      "expected_ats_impact": "+1-2% parse fidelity"
+    }
+  ],
+  "hiring_manager_summary": {
+    "strengths": [
+      "Direct AI Office / CoE stand-up experience with quantified adoption (200+ upskilled, 40% acceleration)",
+      "Governance stack: Responsible AI Policy, steering committee, risk/go-no-go, model safety",
+      "Portfolio and vendor management at $5M+ scale",
+      "Manufacturing AI delivery with hard metrics (20% downtime reduction, 90% maintenance compliance)",
+      "Kansas City metro — local to DFA HQ"
+    ],
+    "concerns": [
+      "Stealth employer not externally verifiable",
+      "Short CAIO tenure",
+      "No dairy/food domain",
+      "Degree not in listed technical fields",
+      "No PMP (preferred)"
+    ],
+    "likely_recruiter_reaction": "Advance — rare candidate who matches AI Office mandate rather than generic IT leadership",
+    "interview_probe_topics": [
+      "Stealth company context and team scale",
+      "Examples of deprioritizing low-ROI AI use cases",
+      "IT shared services partnership model",
+      "Travel availability (1-2x/month)"
+    ]
+  }
+}

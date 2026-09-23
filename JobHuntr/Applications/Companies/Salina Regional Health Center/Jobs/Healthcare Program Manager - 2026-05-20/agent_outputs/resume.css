@@ -1,0 +1,35 @@
+@page { size: Letter; margin: 0.6in 0.7in; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.32;
+  color: #1a1a1a;
+}
+h1 {
+  font-size: 22pt;
+  margin: 0 0 2pt 0;
+  letter-spacing: 0.5pt;
+  color: #111;
+}
+h1 + p, h1 + p + p { margin: 0 0 2pt 0; }
+h2 {
+  font-size: 11.5pt;
+  text-transform: uppercase;
+  letter-spacing: 1pt;
+  border-bottom: 0.75pt solid #333;
+  padding-bottom: 2pt;
+  margin: 14pt 0 6pt 0;
+  color: #111;
+}
+h3 {
+  font-size: 11pt;
+  margin: 9pt 0 1pt 0;
+  color: #111;
+}
+p { margin: 0 0 4pt 0; }
+ul { margin: 2pt 0 6pt 16pt; padding: 0; }
+li { margin: 0 0 3pt 0; }
+strong { color: #111; }
+a { color: #1a1a1a; text-decoration: none; }
+hr { display: none; }

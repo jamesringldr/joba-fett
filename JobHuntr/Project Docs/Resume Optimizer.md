@@ -1,0 +1,18 @@
+- Job Intel Brief
+	- Company
+	- Industry
+	- ATS
+	- Salary Analysis
+	- Possible Repo
+		- https://github.com/santifer/career-ops
+- Gap Analysis
+- Tailoring
+- Audit
+	- LLM fingerprinting
+	- ATS
+	- Qualification Score
+- HITL Approval
+- Generate Deliverables
+	- Update Master
+	- .md version
+	- PDF version with LaTex

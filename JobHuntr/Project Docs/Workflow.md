@@ -1,0 +1,54 @@
+- `Product goal:` Optimize and Automate the Total job application process
+- `Primary user(s):` Myself 
+- `Main workflow:` 
+	- Profile Setup
+		- Build a Master Profile that has complete job history with detailed projects and experience - this will be referenced and pulled from when building resumes for each job description. This will also be a living source that as new projects, skills, or experiences get uncovered they will be added
+		- Persona Configuration: 
+			- This will be a list of different personas based on the industry and or job title. Items will include Industry, Job Titles,  skills/focus highlights (im sure there are others I should add but I cant think of any at the moment - any thoughts?)
+				- Use case: I have a potpurri of experience ranging from Project/Program Management, IT Director, Business Consultant, Web Developer, App Developer, Chief Operating Officer, Founder, etc... each of those also have different industries IE for Project Manager I have experience and will be targeting multiple industries for: HealthcareIT, FinTech, InsurTech, Construction IT, Software, etc..
+		- Target Open Roles (this is phase 1B - but will be different resources to scan for open roles)
+			- Company Job Boards
+				- Specific companies im targeting and roles at each company
+					- This will be used as an ongoing scrape that monitors job postings at each company that could fit my profile
+			- Job Boards (this is more of a Phase 2 - not a real prioity as i intent to manually feed links to these postings as i see them)
+				- Sources like LinkedIn, Indeed, Career builder, etc
+				- for each job board it will have and store and profile/login credentials, any api keys
+	- Dashboard View
+		- Notifications: (will have an integration with my email and monitors for emails from companies Ive applied to)
+		- Data visualization of Application status ( Queued, Working, Review, Submitted, Auto Rejected, Phone Screening, Interviewing, Rejected, Offered, Declined)
+		- List of Relevent jobs to apply to from Open Roles Targets
+	- Primary Feature/Use
+		- Job Description URL is uploaded (or selected from the Target companies job postings list) - It is stored with the status of Backlog
+		- From the backlog Ill tag it with the correct persona and it will be updated to Queued status
+		- Then from a Queued List (probably a seperate view) I click to start the application and the status will be changed to Working and the Resume optimization sequence will start (Job Intellegence brief, Gap Analysis, Resume Tailoring, Audit, (ATS, Candidate Scoring ) Once complete status will update to Review
+		- Ill Review and either suggest edits or approve, once I approve status will update to Applying. Additionally if application is needed to be completed on a companies job board Ill share screenshots of the questions and an agent will use the final resume to create easy to copy/paste into the text fields (ultimately this will be done via a chrome extention to help automate but for now an easy copy/paste .txt doc)
+		- Once applied ill manually select that the application has been submitted and status will update accordingly
+			-  Additionally Ill include the login information used including the company based tagged email address I submitted from so the tool can monitor the inbox for replies to that specific job 
+		- From there the tool will monitor my inbox for updates and update notifications accordingly
+		- Ill manually upate the status from there
+- `Key integrations/data sources:` 
+	- I think Im going to use Telegram to easily forward links to JDs from my phone (ill also have a manual link upload in the tool), future state is the chrome extension for auto filling out forms (additionally would be a good addition for JD link injest from desktop too), Zoho mailbox integration to monitor my inbox for responses, scraping of target company job boards, exports of PDF, .txt, and .md (as well as creating folders for each job with the exports), probably just use supabase as my db for settings, statuses, etc (unless you suggest a different route -local sql db file, firebase, convex, etc...- I think thats all i can thinik up (youll notice I didnt add LLM API - Ill be using this locally and will either be using it the AI elements directly from the terminal via claude code, or within Cursor's Agent View)
+- `Must-have features:` what has to exist for v1 of this restart
+	- Critical Path
+		- Master Profile
+		- personas set up
+		- Manual JD Link upload and text extractor for LLM to easily use during Resume optimization sequence
+		- Status tracking
+		- Prompt library for Resume Optimization prompts to LLM
+		- pdf export Latex for converting to pdf
+		- Views
+			- List View with filter on status, personas, job titles, industries
+			- Summary view per company
+				- Jobs applied to with status
+				- Key contacts (and primary contact)
+				- will be used for interview prep, Cover Letter creation, etc...
+	- Non critical path but still MVP
+		- email integration (api or webhook) and monitoring
+		- Target company job board scrape
+		- Dashboard with data visualization of status, Suggested jobs list, Notifications, To Dos
+- `Out of scope for now:` anything we should explicitly defer
+	- Job board integration (linkedin, careerbuilder, etc..)
+	- chrome extension
+- `Known gaps or pain points:` places you already suspect the current build is off
+	- I know the front end is going to need a major revamp... I hadnt completely thought through the UX yet when I started it initially
+	- Additionally related, I hadnt created a design system yet either so will want to get that defined and solid before we start any front end build
