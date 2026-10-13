@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "candidate_name": "James Oehring",
+    "target_role": "Project Executive - PMO Center of Excellence",
+    "target_company": "Netsmart Technologies",
+    "evaluation_date": "2026-10-13",
+    "evaluator": "HR-Critic Agent v1"
+  },
+  "scores": {
+    "ats_match_percent": 51,
+    "ats_interpretation": "WEAK_COMPATIBILITY",
+    "star_narrative_score": 2.9,
+    "systems_thinking": 2.5,
+    "operational_ownership": 3.5,
+    "product_mindset": 2.5,
+    "collaboration": 3.0,
+    "integrity_status": "CONCERNS"
+  },
+  "red_flags": [
+    {"category": "CERT GAP", "severity": "HIGH", "detail": "PMP is explicitly required by the JD; resume lists it only as 'initiated' (not held).", "count": 1},
+    {"category": "Skills-only keyword claims", "severity": "MEDIUM", "detail": "JD phrases (Master Project Templates, Schedule Audits, EVM, PSA, Power BI/Tableau, training) appear in Skills with no supporting experience bullets; reads as keyword mirroring.", "count": 1},
+    {"category": "Authenticity", "severity": "MEDIUM", "detail": "ringldr is a consultancy but headline bullet is an 'internal' framework; no clients, baselines or sample size for the +22%/-18% results. Headline implies executive title never held. 'Healthcare IT 10+ years' claim is arguable.", "count": 1},
+    {"category": "Date format", "severity": "LOW", "detail": "Vanyshr uses year-only dates while other roles use Month YYYY; ringldr/GEHA/Cornerstones overlap may confuse chronological parsing.", "count": 2},
+    {"category": "Grammar/Typos", "severity": "LOW", "detail": "No typos detected.", "count": 0}
+  ],
+  "parsing_risks": [
+    "DATE RISK (minor): Vanyshr year-only dates vs Month YYYY elsewhere",
+    "CHRONOLOGY RISK (minor): overlapping concurrent roles; ringldr (2018) listed above Cornerstones (2019)"
+  ],
+  "missing_requirements": {
+    "must_haves": [
+      "Bachelor's degree in Business, PM, Engineering, IS or related field (candidate has Psychology/Sociology BS plus MSW)",
+      "PMP certification (listed as 'initiated' only)",
+      "10+ years managing detailed master project schedules (about 5-6 years evidenced; strongest evidence 8+ years old)"
+    ],
+    "preferred": [
+      "Implementing or optimizing PSA and resource management processes",
+      "Evaluating and implementing project management technologies and reporting solutions",
+      "Advanced executive dashboards and project performance reporting frameworks"
+    ]
+  },
+  "final_recommendation": "MAYBE",
+  "confidence_level": "MODERATE",
+  "priority_actions": [
+    {"rank": 1, "category": "Certification", "description": "Resolve the PMP gap: obtain the PMP before applying, or state a verifiable exam/approval status and address in cover note.", "expected_ats_impact": "51% -> ~57% and removes knockout filter"},
+    {"rank": 2, "category": "Evidence for Skills-only claims", "description": "Add quantified experience bullets (if true) for schedule audits, EVM/percent-complete, PM training, dashboards, PSA and tool evaluation; remove skills that cannot be evidenced.", "expected_ats_impact": "51% -> ~60-65%"},
+    {"rank": 3, "category": "STAR outcomes", "description": "Rewrite Netsmart bullets (150+ EHR projects, master schedules, 3,000+ hour implementation) to include real outcomes such as on-time delivery, slippage reduction or resource conflict reduction.", "expected_ats_impact": "STAR narrative 2.9 -> ~3.5; ATS +3-5 points"},
+    {"rank": 4, "category": "Experience years", "description": "Reframe the 10+ years claim honestly (total delivery years vs schedule-ownership years) and expand the Netsmart section.", "expected_ats_impact": "Reduces recruiter reject risk; minimal direct ATS change"},
+    {"rank": 5, "category": "Authenticity", "description": "Name ringldr client types, baselines and scope; clarify 'internal' framework; temper 'Executive' headline; trim irrelevant Vanyshr security-gate detail; normalize Vanyshr dates.", "expected_ats_impact": "Integrity CONCERNS -> PASS; minor ATS change"}
+  ]
+}
