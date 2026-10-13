@@ -43,3 +43,29 @@ Awaiting Igor's resume draft for `Resume PreDraft.md`, then Step 4 (ATS pass) �
 
 ## Update — summary figure (James, 2026-10-13)
 - "Yeah keep the 150+" — the 150+ EHR implementations count stays in the summary and the Netsmart bullet.
+
+## Update — where the tools were used (James, 2026-10-13)
+- **James's words:** "Smartsheet is in ringldr has been the primary project and portfolio management platform, P6 professional was utilized at GEHA and what's the primary scheduling tool"
+- **Captured:** Smartsheet is the primary project and portfolio management platform at ringldr (ongoing). Primavera P6 Professional was used at GEHA.
+- **Applied:** one bullet added under ringldr and one under GEHA, no numbers (none given).
+- **Unclear:** the trailing "what's the primary scheduling tool" reads as a question or a cut-off sentence. Asked James to clarify. Not assumed.
+- **HR-Critic loop 1 (2026-10-13): NO** (ATS match 55%, narrative 2.9/5, integrity CONCERNS). Applied without new input: summary now attributes 22%/18% to ringldr; heading renamed "Work Experience". Everything else waits on James. See `HR-CRITIQUE-REPORT.md`.
+
+## HR-Critic loop 1 backlog applied (James: "Make all the suggested edits to improve", 2026-10-13)
+**Applied (truthful, no new facts):** headline changed from the target title to a positioning line; "Targeting PMO Center of Excellence leadership" added to the summary; Vanyshr cut to two bullets (SAST/CI-CD tool list removed, AI workflow automation kept); ringldr marked as a consulting practice run concurrently with the roles below (derived from the dates); "Returning candidate…" line removed (rehire context belongs in the cover note); PMP line now reads "initiated" (the "committed to acquiring immediately" phrase removed, no exam date added because none exists).
+**Not applied — needs facts only James has (nothing invented):** Netsmart outcome metrics (on-time %, go-live slip, portfolio size); EVM / schedule audit / schedule risk / PM training bullets with employer and result; PSA and Microsoft Project placement; dashboard example; degree-gap bridge; ringldr baseline/portfolio size for the 22%/18% result; Vanyshr traction; month for Vanyshr start.
+
+## HR-Critic loop 2 (2026-10-13): MAYBE (ATS match 51%, narrative 2.9/5, integrity CONCERNS)
+Applied without new input: removed the "pre-merge security gates" clause from the Vanyshr bullet (reviewer: irrelevant to a PMO role). Everything still open needs James: PMP status/date, evidence bullets for Skills-only claims, Netsmart outcomes, ringldr clients/baseline, schedule-ownership years, degree bridge, Vanyshr start month. Loops used: 2 of 3. Archived loop 1 as `HR-CRITIQUE-REPORT (loop 1).md` / `HR-CRITIQUE-SCORECARD (loop 1).json`.
+
+## PMP line replaced (James, 2026-10-13)
+- **James's text, verbatim:** "Project Management Professional (PMP) — In Progress; 14 of 35-hour exam prep completed via TIA, On-site exam targeting December 9th"
+- **Applied:** first line under Certifications in `Audited Resume.md`, replacing the earlier "initiated" line. This supersedes every earlier "initiated" wording in these notes. It is still NOT a held certification.
+- **Open:** "TIA" is not spelled out (ATS acronym rule and the HR-Critic acronym check); the exam year is not stated (December 9th, presumably 2026).
+- **Year/format update (James, 2026-10-13):** "Current, so put Dec 2026" — the exam date now reads "Dec 2026" (Month YYYY, matching the resume's date format). The specific day (the 9th) was dropped per that instruction. "TIA" is still not spelled out.
+
+## Client work, schedule ownership and EVM (James, 2026-10-13)
+- **James's words, verbatim:** "Owned master schedules in all roles since Netsmart , cornerstones and ringldr for EVM, for ringldr add line for excelsior springs hospital - contracted to audit and reorganize IT team of 7, including redisinging workflows for delivery internal projects, refined scoped and prioritized backlog. Designed and developed workflow for support ticketing workflow, designed Intranet for tracking provider licensing as well as for internal document management…… Also add line for client Hope Comunity Services - contracted to help with clinical workflow audit and redesign as well as development of training material,"
+- **Applied:** two Excelsior Springs Hospital bullets and one Hope Community Services bullet under ringldr (typos corrected: "redesigning", "Community"); a ringldr and a Cornerstones bullet for master schedule ownership with EVM; GEHA P6 bullet changed from "Managed" to "Owned master project schedules"; summary now says "Owned master project schedules in every role since 2014."
+- **How I read it (confirm):** "all roles since Netsmart" = Netsmart, GEHA, Cornerstones and ringldr (Vanyshr excluded: it is a product, not a delivery role); EVM = Cornerstones and ringldr only.
+- **Not claimed:** the audits at Excelsior Springs and Hope are an IT-team audit and a clinical-workflow audit, NOT schedule audits, so "Schedule Audits & Compliance" in Skills remains without a supporting bullet. "Help with" at Hope was written as "contracted for", not "led". No dates, fee, outcome or results were given for either client; none added. The only number is the 7-person IT team.

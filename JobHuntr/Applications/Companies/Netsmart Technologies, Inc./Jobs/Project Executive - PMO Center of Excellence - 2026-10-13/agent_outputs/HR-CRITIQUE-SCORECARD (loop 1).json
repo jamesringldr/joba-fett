@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "candidate_name": "James Oehring",
+    "target_role": "Project Executive - PMO Center of Excellence",
+    "target_company": "Netsmart",
+    "evaluation_date": "2026-10-13",
+    "evaluator": "HR-Critic Agent v1"
+  },
+  "scores": {
+    "ats_match_percent": 55,
+    "ats_interpretation": "WEAK_COMPATIBILITY",
+    "star_narrative_score": 2.9,
+    "systems_thinking": 3,
+    "operational_ownership": 3.5,
+    "product_mindset": 2.5,
+    "collaboration": 3,
+    "integrity_status": "CONCERNS"
+  },
+  "red_flags": [
+    {"category": "Cert Gap", "severity": "CRITICAL", "detail": "PMP is required by the JD; resume lists it only as 'initiated; committed to acquiring immediately'.", "count": 1},
+    {"category": "Education Field Mismatch", "severity": "MEDIUM", "detail": "BS Psychology/Sociology and MSW are not in the JD's listed fields (Business, PM, Engineering, IS or related).", "count": 1},
+    {"category": "Overlapping Concurrent Roles", "severity": "MEDIUM", "detail": "ringldr (June 2018-Present) overlaps GEHA, Cornerstones and Vanyshr; unexplained. Roles ordered by start date; GEHA and ringldr both start June 2018.", "count": 3},
+    {"category": "Metric Attribution / Cliche", "severity": "MEDIUM", "detail": "22% on-time and 18% overrun metrics repeated in Summary and ringldr bullet; Summary places them beside Netsmart, implying a different source. No baseline or portfolio size.", "count": 2},
+    {"category": "Keyword-Only Claims / Template Uniformity", "severity": "MEDIUM", "detail": "Skills mirror JD wording (EVM, schedule audits, P6, PSA, training) with no supporting bullets.", "count": 1},
+    {"category": "Title Mismatch", "severity": "MEDIUM", "detail": "Headline title is the target job title, not a title held.", "count": 1},
+    {"category": "Date Format / Heading", "severity": "LOW", "detail": "Mixed '2024' vs 'Month YYYY' date formats; 'Professional Experience' instead of 'Work Experience'.", "count": 2},
+    {"category": "Grammar/Phrasing", "severity": "LOW", "detail": "'Returning candidate with deep platform and delivery knowledge' is an application note, not resume content.", "count": 1}
+  ],
+  "parsing_risks": [
+    "[DATE RISK] Inconsistent date formats (year-only for Vanyshr vs Month YYYY elsewhere)",
+    "[CHRONOLOGY RISK] Roles ordered by start date; overlapping tenures starting June 2018",
+    "[HEADING RISK] 'Professional Experience' instead of canonical 'Work Experience' (low)"
+  ],
+  "missing_requirements": {
+    "must_haves": [
+      "Project Management Professional (PMP) certification (required)",
+      "Bachelor's degree in Business, Project Management, Engineering, Information Systems, or related field (degree is Psychology/Sociology)",
+      "10+ years managing detailed master project schedules (only ~4-6 demonstrated)",
+      "Schedule risk analysis",
+      "Evidence of conducting PMO audits / Center of Excellence leadership (claimed, not demonstrated)",
+      "Earned value management, percent-complete tracking (keyword only, no evidence)"
+    ],
+    "preferred": [
+      "Evaluating and implementing project management technologies and reporting solutions",
+      "Implementing or optimizing PSA and resource management processes (keyword only)",
+      "Advanced executive dashboard / performance reporting experience (keyword only)"
+    ]
+  },
+  "final_recommendation": "NO",
+  "confidence_level": "MODERATE",
+  "priority_actions": [
+    {"rank": 1, "category": "Certification", "description": "Obtain PMP or list a scheduled exam date; remove 'committed to acquiring immediately' wording.", "expected_ats_impact": "55% -> 65% and removes knockout"},
+    {"rank": 2, "category": "Evidence for core competencies", "description": "Add dated, quantified bullets proving EVM, percent-complete, schedule risk analysis, schedule audits, and tool use (MS Project, P6, Smartsheet, PSA).", "expected_ats_impact": "+8 points"},
+    {"rank": 3, "category": "Metric attribution", "description": "Attribute 22%/18% results to the correct employer or client with portfolio size, baseline and timeframe; remove ambiguity in the Summary.", "expected_ats_impact": "+2 points; resolves integrity concern"},
+    {"rank": 4, "category": "Netsmart section rewrite", "description": "Rewrite the Netsmart bullets with outcomes (on-time %, budget, go-live slip) instead of volume-only claims.", "expected_ats_impact": "+3 points; improves STAR from 2.9 to ~3.5"},
+    {"rank": 5, "category": "Timeline and structure", "description": "Clarify concurrent roles, standardize dates to Month YYYY, fix reverse-chronological ordering, drop the 'Returning candidate' line, use a real held title in the headline.", "expected_ats_impact": "Removes integrity and parsing concerns"},
+    {"rank": 6, "category": "Focus", "description": "Compress Vanyshr to two bullets emphasizing AI workflow automation with measurable results; bridge the degree gap.", "expected_ats_impact": "+2 points"}
+  ]
+}
