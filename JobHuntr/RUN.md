@@ -1,22 +1,22 @@
 # RUN — Tailor a Resume (direct terminal / Cursor)
 
 This is the **entrypoint** for running the resume-tailoring sequence directly — in Cursor or in a
-terminal (Claude Code) — against **this repo as-is**. It is the shared driver both surfaces
+terminal (Claude Code) — against **this vault as-is**. It is the shared driver both surfaces
 follow; the per-step logic still lives in the existing prompt files under
 `prompt-library/`, which this doc reuses without modification.
 
-> **Everything lives in this repo.** All paths are repo-root-relative — `Applications/`,
+> **Everything lives in this vault.** All paths are vault-root-relative — `Applications/`,
 > `MasterProfile/`, `prompt-library/`. `00-bootstrap` sets `{{vault_root}} = .`; the old
 > `docs/obsidian/JobHuntr` vault routing has been removed.
 
 ---
 
-## 0. Paths (repo-root)
+## 0. Paths (vault-root)
 
 The canonical paths for every step:
 
 ```
-{{vault_root}}        = .            # the repo root — where the real data lives
+{{vault_root}}        = .            # the vault root (JobaFett/) — where the real data lives
 {{company_dir}}       = Applications/Companies/{{company_folder_name}}
 {{job_dir}}           = {{company_dir}}/Jobs/{{job_folder_name}}
 {{agent_outputs_dir}} = {{job_dir}}/agent_outputs
@@ -142,3 +142,13 @@ deliverables land in `{{final_files_dir}}`.
 # finish
 06 humanize   07 final             -> .md + .pdf in final_files/
 ```
+
+---
+
+## GitHub mirror
+
+The iCloud vault is the working copy. After completing each pipeline step's file writes, sync
+new/changed files to the `JobHuntr/` folder in the `/Users/jameso/DevWork/Joba-Fett` repo clone
+(`rsync -av --exclude=.DS_Store`, no `--delete`), commit with a step-scoped message, and push.
+GitHub is the durable mirror and Igor's read path — never let it fall behind the vault. Never copy
+`.git/` into iCloud, and never init git inside the vault.

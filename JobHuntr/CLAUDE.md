@@ -7,7 +7,7 @@ Resume-tailoring sequence. Job description + master profile in → ATS-ready, hu
 **Follow [RUN.md](./RUN.md)** — the authoritative driver. Don't improvise the flow.
 
 - **Invoke:** `/newjob` (or just ask to start a new tailor sequence).
-- **Paths:** repo-root-relative — `Applications/` + `MasterProfile/master_profile.md` live at the
+- **Paths:** vault-root-relative — `Applications/` + `MasterProfile/master_profile.md` live at the
   root (`{{vault_root}} = .`). The old `docs/obsidian/JobHuntr` routing has been removed.
 - **Entrypoint:** `prompt-library/tailor-resume-seq/00-bootstrap.md`.
 - **Intake:** bootstrap takes company + title + `company_url` + `job_posting_url` + JD + a manual
